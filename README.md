@@ -1,7 +1,7 @@
 Hi 👋 My name is Bilel CHATER
 =============================
 
-Développeur Back-end lourd, Microservices & Cloud
+Développeur Back-end lourd, Microservices & Sysadmin, Cloud (DevOps)
 -------------------------------------------------
 
 *   🌍  I'm based in Paris
